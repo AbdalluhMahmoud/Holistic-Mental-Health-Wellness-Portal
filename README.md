@@ -39,7 +39,7 @@ The platform serves as a bridge between patients seeking care and licensed thera
 
 ## 🧩 Backend Architecture Deep Dive
 
-NexHire's backend follows a **strict layered MVC** pattern with clear separation enforced through PHP interfaces and abstract classes:
+ HMH & WP Team backend follows a **strict layered MVC** pattern with clear separation enforced through PHP interfaces and abstract classes:
 
 ```
 Request → public/index.php (Front Controller)
